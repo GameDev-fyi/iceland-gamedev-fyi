@@ -1,0 +1,4 @@
+baseURL = "https://iceland.gamedev.fyi"
+languageCode = "en-us"
+title = "Iceland GameDev FYI"
+theme = "gamedev-fyi-theme"
