@@ -1,2 +1,2 @@
 [submodule "themes/gamedev-fyi-theme"]
-	url = https://gitlab.com/gamedev-fyi/gamedev-fyi-theme
+	url = git@gitlab.com:gamedev-fyi/gamedev-fyi-theme.git
