@@ -1,0 +1,3 @@
+[submodule "themes/gamedev-fyi-theme"]
+	path = themes/gamedev-fyi-theme
+	url = git@gitlab.com:gamedev-fyi/gamedev-fyi-theme.git
