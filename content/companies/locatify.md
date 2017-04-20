@@ -5,7 +5,7 @@ active_to = ""
 date = "2017-04-19T16:14:31Z"
 description = "Specializes in location aware branded app and games."
 site_link = "https://locatify.com/"
-tags = [""]
+tags = []
 title = "Locatify"
-
+cat = "L"
 +++

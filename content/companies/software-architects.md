@@ -5,7 +5,7 @@ active_to = ""
 date = "2017-04-19T16:21:27Z"
 description = "Working on two VR and one retro gaming title."
 site_link = "https://architects.is/"
-tags = [""]
+tags = []
 title = "Software Architects"
-
+cat = "S"
 +++

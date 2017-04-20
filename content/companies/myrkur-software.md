@@ -5,6 +5,7 @@ active_to = ""
 date = "2017-04-19T16:20:36Z"
 description = "Games - Virtual Reality - Interactive Entertainment."
 site_link = "http://myrkur.is/"
-tags = [""]
+tags = []
 title = "Myrkur Software"
+cat = "M"
 +++

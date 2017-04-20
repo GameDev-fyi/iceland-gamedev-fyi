@@ -5,6 +5,7 @@ active_to = ""
 date = "2017-04-19T16:13:40Z"
 description = "Game studio focused on VR."
 site_link = "http://www.aldindynamics.com/"
-tags = [""]
+tags = []
 title = "Aldin Dynamics"
+cat = "A"
 +++

@@ -5,6 +5,7 @@ active_to = ""
 date = "2017-04-19T16:21:47Z"
 description = "Game studio focused on VR."
 site_link = "http://www.solfar.com/"
-tags = [""]
+tags = []
 title = "Sólfar"
+cat = "S"
 +++

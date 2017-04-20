@@ -5,6 +5,7 @@ active_to = ""
 date = "2017-04-19T16:14:17Z"
 description = "Focusing on educational apps and puzzle games for iOS."
 site_link = "http://www.segulljod.is/"
-tags = [""]
+tags = []
 title = "Gebo Kano"
+cat = "G"
 +++

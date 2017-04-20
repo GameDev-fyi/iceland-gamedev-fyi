@@ -5,6 +5,7 @@ active_to = ""
 date = "2017-04-19T16:20:17Z"
 description = "Based in Garðabær."
 site_link = "https://mousetrap.is/"
-tags = [""]
+tags = []
 title = "Mousetrap"
+cat = "M"
 +++

@@ -5,7 +5,7 @@ active_to = ""
 date = "2017-04-19T16:21:13Z"
 description = "Makers of Box Island."
 site_link = "https://radiant.games/"
-tags = [""]
+tags = []
 title = "Radiant Games"
-
+cat = "R"
 +++
