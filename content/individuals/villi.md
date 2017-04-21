@@ -5,6 +5,6 @@ facebook_link = ""
 site_link = "https://villideveloper.com/"
 tags = []
 title = "Villi"
-twitter_link = ""
+twitter_link = "https://twitter.com/SvarssonV"
 cat = "V"
 +++

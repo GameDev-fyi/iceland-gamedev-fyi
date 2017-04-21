@@ -5,6 +5,6 @@ facebook_link = ""
 site_link = "http://joon.be/"
 tags = []
 title = "Joon"
-twitter_link = ""
+twitter_link = "https://twitter.com/joonturbo"
 cat = "J"
 +++

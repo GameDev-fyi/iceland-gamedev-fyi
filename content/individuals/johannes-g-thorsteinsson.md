@@ -5,6 +5,6 @@ facebook_link = ""
 site_link = "http://www.johannesg.com/"
 tags = []
 title = "Jóhannes G. Þorsteinsson"
-twitter_link = ""
+twitter_link = "https://twitter.com/johannesgunnar"
 cat = "J"
 +++

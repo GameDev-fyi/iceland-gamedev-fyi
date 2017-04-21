@@ -5,6 +5,6 @@ facebook_link = ""
 site_link = "http://www.ellioman.com/"
 tags = []
 title = "Ellioman"
-twitter_link = ""
+twitter_link = "https://twitter.com/ellioman"
 cat = "E"
 +++

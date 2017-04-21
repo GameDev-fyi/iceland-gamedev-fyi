@@ -5,6 +5,6 @@ facebook_link = ""
 site_link = "http://www.torf.io/"
 tags = []
 title = "Torfi"
-twitter_link = ""
+twitter_link = "https://twitter.com/torfias"
 cat = "T"
 +++

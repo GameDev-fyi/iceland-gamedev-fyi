@@ -5,6 +5,6 @@ facebook_link = ""
 site_link = "https://www.skrekkur.com/"
 tags = []
 title = "Skrekkur"
-twitter_link = ""
+twitter_link = "https://twitter.com/Skrekkur"
 cat = "S"
 +++

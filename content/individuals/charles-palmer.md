@@ -5,6 +5,6 @@ facebook_link = ""
 site_link = "https://meheleventyone.com/"
 tags = []
 title = "Charles Palmer"
-twitter_link = ""
+twitter_link = "https://twitter.com/meheleventyone"
 cat = "C"
 +++

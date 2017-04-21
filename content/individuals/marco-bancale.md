@@ -5,6 +5,6 @@ facebook_link = ""
 site_link = "http://www.licorice.is/"
 tags = []
 title = "Marco Bancale"
-twitter_link = ""
+twitter_link = "https://twitter.com/grammogatto"
 cat = "M"
 +++

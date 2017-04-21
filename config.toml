@@ -2,3 +2,13 @@ baseURL = "https://iceland.gamedev.fyi/"
 languageCode = "en-us"
 title = "Iceland GameDev FYI"
 theme = "gamedev-fyi-theme"
+googleAnalytics = "UA-60001962-9"
+
+
+[Params]
+  description = "A resource for all game development related things in Iceland."
+  twitter = "https://twitter.com/GameDevFYI"
+  email = "admin@gamedev.fyi"
+  keywords = "Game, GameDev, Iceland"
+  dateFormat = "January 2, 2006"
+  author = "Goose Ninja"

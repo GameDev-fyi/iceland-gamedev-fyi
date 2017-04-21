@@ -5,6 +5,6 @@ facebook_link = ""
 site_link = "http://www.joe.is/"
 tags = []
 title = "Jói Sigurðss"
-twitter_link = ""
+twitter_link = "https://twitter.com/joisigurdss"
 cat = "J"
 +++

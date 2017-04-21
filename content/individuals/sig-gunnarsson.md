@@ -5,6 +5,6 @@ facebook_link = ""
 site_link = "http://siggunnarsson.com/"
 tags = []
 title = "Sig Gunnarsson"
-twitter_link = ""
+twitter_link = "https://twitter.com/SigGunnarsson"
 cat = "S"
 +++
