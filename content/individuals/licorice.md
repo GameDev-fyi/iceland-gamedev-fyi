@@ -4,7 +4,7 @@ description = "Game Developer."
 facebook_link = ""
 site_link = "http://www.licorice.is/"
 tags = []
-title = "Marco Bancale"
+title = "Licorice"
 twitter_link = "https://twitter.com/grammogatto"
-cat = "M"
+cat = "L"
 +++
