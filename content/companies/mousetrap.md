@@ -7,5 +7,5 @@ description = "Based in Garðabær."
 site_link = "https://mousetrap.is/"
 tags = []
 title = "Mousetrap"
-cat = "M"
+location = "Garðabær"
 +++

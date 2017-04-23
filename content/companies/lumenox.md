@@ -7,5 +7,5 @@ description = "Makers of Aaru’s Awakening and YamaYama."
 site_link = "http://www.lumenoxgames.com/"
 tags = []
 title = "Lumenox"
-cat = "L"
+location = "Reykjavík"
 +++

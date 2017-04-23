@@ -7,5 +7,5 @@ description = "Icelandic GameDev Industry."
 site_link = "http://igi.is/"
 tags = []
 title = "IGI"
-cat = "I"
+location = "Reykjavík"
 +++

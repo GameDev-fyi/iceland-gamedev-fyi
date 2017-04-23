@@ -7,5 +7,5 @@ description = "Working on a digital collectible card game that goes by the name 
 site_link = "https://www.1939games.com/"
 tags = []
 title = "1939 Games"
-cat = "#"
+location = "Reykjavík"
 +++

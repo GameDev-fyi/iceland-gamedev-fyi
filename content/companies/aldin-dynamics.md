@@ -7,5 +7,5 @@ description = "Game studio focused on VR."
 site_link = "http://www.aldindynamics.com/"
 tags = []
 title = "Aldin Dynamics"
-cat = "A"
+location = "Reykjavík"
 +++

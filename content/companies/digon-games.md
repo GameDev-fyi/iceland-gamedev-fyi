@@ -7,5 +7,5 @@ description = "Focusing on casual sports games."
 site_link = "http://www.digongames.com"
 tags = []
 title = "Digon Games"
-cat = "D"
+location = "Reykjavík"
 +++

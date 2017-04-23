@@ -7,5 +7,5 @@ description = "Makers of Tiny Knight."
 site_link = "https://www.facebook.com/ConvexGameStudio/"
 tags = []
 title = "Convex Games"
-cat = "C"
+location = "Reykjavík"
 +++

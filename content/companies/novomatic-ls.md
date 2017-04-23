@@ -7,5 +7,5 @@ description = "Offer a full lottery solution."
 site_link = "http://www.novomaticls.com/"
 tags = []
 title = "Novomatic LS"
-cat = "N"
+location = "Kópavogur"
 +++

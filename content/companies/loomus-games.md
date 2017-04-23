@@ -1,6 +1,6 @@
 +++
 title = "Loomus Games"
-cat = "L"
+location = "Reykjavík"
 active = true
 description = "Makers of Prismatica"
 date = "2017-04-22T00:39:59Z"

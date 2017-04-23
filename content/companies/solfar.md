@@ -7,5 +7,5 @@ description = "Game studio focused on VR."
 site_link = "http://www.solfar.com/"
 tags = []
 title = "Sólfar"
-cat = "S"
+location = "Reykjavík"
 +++

@@ -7,5 +7,5 @@ description = "Makers of Starborne."
 site_link = "https://www.solidclouds.com/"
 tags = []
 title = "Solid Clouds"
-cat = "S"
+location = "Reykjavík"
 +++

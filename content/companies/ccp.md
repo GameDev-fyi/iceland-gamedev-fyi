@@ -7,5 +7,5 @@ description = "Makers of the EVE Universe."
 site_link = "https://www.ccpgames.com/"
 tags = []
 title = "CCP"
-cat = "C"
+location = "Reykjavík"
 +++

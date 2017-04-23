@@ -7,5 +7,5 @@ description = "Music themed games."
 site_link = "http://www.mussila.com/"
 tags = []
 title = "Rosamosi"
-cat = "R"
+location = "Reykjavík"
 +++

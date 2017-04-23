@@ -7,5 +7,5 @@ description = "Specializes in location aware branded app and games."
 site_link = "https://locatify.com/"
 tags = []
 title = "Locatify"
-cat = "L"
+location = "Hafnarfjörður"
 +++

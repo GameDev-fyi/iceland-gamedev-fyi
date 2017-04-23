@@ -7,5 +7,5 @@ description = "Working on two VR and one retro gaming title."
 site_link = "https://architects.is/"
 tags = []
 title = "Software Architects"
-cat = "S"
+location = "Kópavogur"
 +++

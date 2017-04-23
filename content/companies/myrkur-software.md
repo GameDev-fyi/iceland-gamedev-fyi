@@ -7,5 +7,5 @@ description = "Games - Virtual Reality - Interactive Entertainment."
 site_link = "http://myrkur.is/"
 tags = []
 title = "Myrkur Software"
-cat = "M"
+location = "Reykjavík"
 +++

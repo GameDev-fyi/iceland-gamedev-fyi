@@ -7,5 +7,5 @@ description = "Makers of Box Island."
 site_link = "https://radiant.games/"
 tags = []
 title = "Radiant Games"
-cat = "R"
+location = "Reykjavík"
 +++
