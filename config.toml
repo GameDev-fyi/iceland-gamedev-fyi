@@ -8,6 +8,7 @@ googleAnalytics = "UA-60001962-9"
 [Params]
   description = "A resource for all game development related things in Iceland."
   twitter = "https://twitter.com/GameDevFYI"
+  reddit = "https://www.reddit.com/r/GameDevFYI/"
   email = "admin@gamedev.fyi"
   source_code = "https://gitlab.com/gamedev-fyi/iceland-gamedev-fyi"
   keywords = "Game, GameDev, Iceland"
