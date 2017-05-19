@@ -1,0 +1,53 @@
+backend:
+  name: github
+  repo: GameDev-fyi/iceland-gamedev-fyi
+  branch: master
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "companies"
+    label: "Companies"
+    folder: "content/companies"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Location", name: "location", widget: "string"}
+      - {label: "Site Link", name: "site_link", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Active", name: "active", widget: "string", default: "true"}
+      - {label: "Active From", name: "active_from", widget: "string", default: "2010-12-31"}
+      - {label: "Active To", name: "active_to", widget: "string"}
+      - {label: "tags", name: "tags", widget: "list"}
+  - name: "individuals"
+    label: "Individuals"
+    folder: "content/individuals"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Category", name: "cat", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Site Link", name: "site_link", widget: "string"}
+      - {label: "Twitter Link", name: "twitter_link", widget: "string"}
+      - {label: "Facebook Link", name: "facebook_link", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "tags", name: "tags", widget: "list"}
+  - name: "games"
+    label: "Games"
+    folder: "content/games"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Category", name: "cat", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Site Link", name: "site_link", widget: "string"}
+      - {label: "Released By", name: "released_by", widget: "string"}
+      - {label: "Released", name: "released", widget: "string", default: "2010-12-31"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Platforms", name: "platforms", widget: "list"}
+      - {label: "tags", name: "tags", widget: "list"}
