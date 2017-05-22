@@ -13,13 +13,15 @@ collections:
     folder: "content/companies"
     create: true
     slug: "{{slug}}"
+    editor:
+      preview: false
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Location", name: "location", widget: "string"}
       - {label: "Site Link", name: "site_link", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Active", name: "active", widget: "string", default: "true"}
+      - {label: "Active", name: active, widget: "boolean", default: true}
       - {label: "Active From", name: "active_from", widget: "string", default: "2010-12-31"}
       - {label: "Active To", name: "active_to", widget: "string", required: false}
       - {label: "tags", name: "tags", widget: "list", required: false}
