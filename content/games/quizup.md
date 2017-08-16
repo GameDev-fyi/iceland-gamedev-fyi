@@ -1,6 +1,6 @@
 ---
 title: QuizUp
-cat: Puzzle
+cat: Q
 description: Challenge friends and meet new people who share your interests.
 site_link: 'http://quizup.com'
 released_by: Plain Vanilla
@@ -9,4 +9,5 @@ date: 2017-08-16T16:20:59.830Z
 platforms: null
 tags: null
 ---
+
 
